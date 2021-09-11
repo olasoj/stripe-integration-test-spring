@@ -1,0 +1,7 @@
+app:
+  client:
+    payment:
+      stripe:
+        api-key: "sk_test_6S3rajrhJSMv04yW6azxw6oR"
+        webhook:
+          secret: "whsec_eZNFZ1UfzM60zcWBDRjEC0Oj8KCefNo2"
